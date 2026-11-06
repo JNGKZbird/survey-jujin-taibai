@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="770" viewBox="0 0 1400 770" role="img" aria-label="支水准测量原始数据汇总（空白，每页 8 人）">
+  <title>支水准测量原始数据汇总 — 空白表格（DSH 视觉稿，8 人/页）</title>
+  <desc>按项目统一表格风格绘制的空白汇总表；每页 8 人；组长/副组长在表头信息行。</desc>
+  <defs>
+    <style>
+      #sheet text { font-family: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif; fill: #1b1b1b; font-size: 21px; }
+      #sheet .serif { font-family: "Times New Roman", "Songti SC", "SimSun", serif; }
+      #sheet .unit { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-size: 19px; }
+      #sheet .title { font-family: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif; font-size: 34px; font-weight: 700; }
+      #sheet .meta { font-size: 22px; }
+      #sheet .note { font-size: 19.5px; }
+      #sheet .line { stroke: #1b1b1b; fill: none; stroke-linecap: square; }
+      #sheet .cells { fill: none; stroke: none; pointer-events: none; }
+    </style>
+  </defs>
+  <g id="sheet">
+    <g id="title">
+      <text class="title" x="700.00" y="70" text-anchor="middle">支水准测量原始数据汇总</text>
+    </g>
+    <g id="meta-row" aria-label="表头信息行">
+      <text class="meta" x="20" y="116" text-anchor="start">组长</text>
+      <text class="meta" x="470" y="116" text-anchor="start">副组长</text>
+      <text class="meta" x="920" y="116" text-anchor="start">日期</text>
+    </g>
+    <g id="table">
+      <rect id="frame" class="line" x="20" y="140" width="1360" height="574.0" stroke-width="2.6"/>
+      <g id="grid-vertical" class="line" stroke-width="1.15">
+        <path id="v1-h1" d="M 204 140 V 178"/>
+        <path id="v5-h1" d="M 792 140 V 178"/>
+        <path id="v1-hdr" d="M 204 178 V 254"/>
+        <path id="v2-hdr" d="M 351 178 V 254"/>
+        <path id="v3-hdr" d="M 498 178 V 254"/>
+        <path id="v4-hdr" d="M 645 178 V 254"/>
+        <path id="v5-hdr" d="M 792 178 V 254"/>
+        <path id="v6-hdr" d="M 939 178 V 254"/>
+        <path id="v7-hdr" d="M 1086 178 V 254"/>
+        <path id="v8-hdr" d="M 1233 178 V 254"/>
+        <path id="v1" d="M 204 254 V 638.0"/>
+        <path id="v2" d="M 351 254 V 638.0"/>
+        <path id="v3" d="M 498 254 V 638.0"/>
+        <path id="v4" d="M 645 254 V 638.0"/>
+        <path id="v5" d="M 792 254 V 638.0"/>
+        <path id="v6" d="M 939 254 V 638.0"/>
+        <path id="v7" d="M 1086 254 V 638.0"/>
+        <path id="v8" d="M 1233 254 V 638.0"/>
+        <path id="v1-sum" d="M 204 638.0 V 714.0"/>
+        <path id="v5-sum" d="M 792 638.0 V 714.0"/>
+      </g>
+      <g id="grid-horizontal" class="line">
+        <path id="h-h1" d="M 204 178 H 1380" stroke-width="1.9"/>
+        <path id="h-h2" d="M 204 216 H 1380" stroke-width="1.15"/>
+        <path id="h-hdr-end" d="M 20.0 254 H 1380" stroke-width="1.9"/>
+        <path id="h-r1" d="M 20.0 302.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r2" d="M 20.0 350.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r3" d="M 20.0 398.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r4" d="M 20.0 446.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r5" d="M 20.0 494.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r6" d="M 20.0 542.0 H 1380" stroke-width="1.15"/>
+        <path id="h-r7" d="M 20.0 590.0 H 1380" stroke-width="1.15"/>
+        <path id="h-data-end" d="M 20.0 638.0 H 1380" stroke-width="1.9"/>
+        <path id="h-avg-end" d="M 20.0 676.0 H 1380" stroke-width="1.15"/>
+        <path id="h-err-end" d="M 20.0 714.0 H 1380" stroke-width="1.9"/>
+      </g>
+    <g id="header-text">
+      <text id="h-name" x="112.00" y="204.00" text-anchor="middle">姓名</text>
+      <text id="h-sec1" x="498.00" y="166.00" text-anchor="middle">BM1-BM0</text>
+      <text id="h-sec2" x="1086.00" y="166.00" text-anchor="middle">BM0-1号点</text>
+      <text id="h-sub-1" x="277.50" y="203.00" text-anchor="middle">往测</text>
+      <text id="h-sub-2" x="424.50" y="203.00" text-anchor="middle">返测</text>
+      <text id="h-sub-3" x="571.50" y="203.00" text-anchor="middle">闭合差</text>
+      <text id="h-sub-4" x="718.50" y="203.00" text-anchor="middle">平均值</text>
+      <text id="h-sub-5" x="865.50" y="203.00" text-anchor="middle">往测</text>
+      <text id="h-sub-6" x="1012.50" y="203.00" text-anchor="middle">返测</text>
+      <text id="h-sub-7" x="1159.50" y="203.00" text-anchor="middle">闭合差</text>
+      <text id="h-sub-8" x="1306.50" y="203.00" text-anchor="middle">平均值</text>
+      <text x="277.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+      <text x="424.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+      <text x="571.50" y="240.00" text-anchor="middle" class="unit">mm</text>
+      <text x="718.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+      <text x="865.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+      <text x="1012.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+      <text x="1159.50" y="240.00" text-anchor="middle" class="unit">mm</text>
+      <text x="1306.50" y="240.00" text-anchor="middle" class="unit">(m)</text>
+    </g>
+    <g id="summary-rows">
+      <text x="112.00" y="664.00" text-anchor="middle">平均值（m）</text>
+      <text x="112.00" y="702.00" text-anchor="middle">中误差（mm）</text>
+    </g>
+    <g id="note">
+      <text class="note" x="20" y="748" text-anchor="start">注：按分组名单填写姓名，每页 8 人，不足 8 人时留空；往返测、平均值单位 m，闭合差、中误差单位 mm。</text>
+    </g>
+    </g>
+  <g id="cells" class="cells">
+      <rect id="meta-leader-box" x="84" y="94" width="346" height="30"/>
+      <rect id="meta-vice-box" x="534" y="94" width="346" height="30"/>
+      <rect id="meta-date-box" x="984" y="94" width="376" height="30"/>
+      <rect id="h-name-box" x="20" y="140" width="184" height="114"/>
+      <rect id="h-sec1-box" x="204" y="140" width="588" height="38"/>
+      <rect id="h-sec2-box" x="792" y="140" width="588" height="38"/>
+      <rect id="h-sub-1-box" x="204" y="178" width="147" height="38"/>
+      <rect id="h-sub-2-box" x="351" y="178" width="147" height="38"/>
+      <rect id="h-sub-3-box" x="498" y="178" width="147" height="38"/>
+      <rect id="h-sub-4-box" x="645" y="178" width="147" height="38"/>
+      <rect id="h-sub-5-box" x="792" y="178" width="147" height="38"/>
+      <rect id="h-sub-6-box" x="939" y="178" width="147" height="38"/>
+      <rect id="h-sub-7-box" x="1086" y="178" width="147" height="38"/>
+      <rect id="h-sub-8-box" x="1233" y="178" width="147" height="38"/>
+      <rect id="s1-name-box" x="22" y="256" width="180" height="44"/>
+      <rect id="s1-s1-fwd-box" x="206" y="256" width="143" height="44"/>
+      <rect id="s1-s1-back-box" x="353" y="256" width="143" height="44"/>
+      <rect id="s1-s1-mis-box" x="500" y="256" width="143" height="44"/>
+      <rect id="s1-s1-mean-box" x="647" y="256" width="143" height="44"/>
+      <rect id="s1-s2-fwd-box" x="794" y="256" width="143" height="44"/>
+      <rect id="s1-s2-back-box" x="941" y="256" width="143" height="44"/>
+      <rect id="s1-s2-mis-box" x="1088" y="256" width="143" height="44"/>
+      <rect id="s1-s2-mean-box" x="1235" y="256" width="143" height="44"/>
+      <rect id="s2-name-box" x="22" y="304" width="180" height="44"/>
+      <rect id="s2-s1-fwd-box" x="206" y="304" width="143" height="44"/>
+      <rect id="s2-s1-back-box" x="353" y="304" width="143" height="44"/>
+      <rect id="s2-s1-mis-box" x="500" y="304" width="143" height="44"/>
+      <rect id="s2-s1-mean-box" x="647" y="304" width="143" height="44"/>
+      <rect id="s2-s2-fwd-box" x="794" y="304" width="143" height="44"/>
+      <rect id="s2-s2-back-box" x="941" y="304" width="143" height="44"/>
+      <rect id="s2-s2-mis-box" x="1088" y="304" width="143" height="44"/>
+      <rect id="s2-s2-mean-box" x="1235" y="304" width="143" height="44"/>
+      <rect id="s3-name-box" x="22" y="352" width="180" height="44"/>
+      <rect id="s3-s1-fwd-box" x="206" y="352" width="143" height="44"/>
+      <rect id="s3-s1-back-box" x="353" y="352" width="143" height="44"/>
+      <rect id="s3-s1-mis-box" x="500" y="352" width="143" height="44"/>
+      <rect id="s3-s1-mean-box" x="647" y="352" width="143" height="44"/>
+      <rect id="s3-s2-fwd-box" x="794" y="352" width="143" height="44"/>
+      <rect id="s3-s2-back-box" x="941" y="352" width="143" height="44"/>
+      <rect id="s3-s2-mis-box" x="1088" y="352" width="143" height="44"/>
+      <rect id="s3-s2-mean-box" x="1235" y="352" width="143" height="44"/>
+      <rect id="s4-name-box" x="22" y="400" width="180" height="44"/>
+      <rect id="s4-s1-fwd-box" x="206" y="400" width="143" height="44"/>
+      <rect id="s4-s1-back-box" x="353" y="400" width="143" height="44"/>
+      <rect id="s4-s1-mis-box" x="500" y="400" width="143" height="44"/>
+      <rect id="s4-s1-mean-box" x="647" y="400" width="143" height="44"/>
+      <rect id="s4-s2-fwd-box" x="794" y="400" width="143" height="44"/>
+      <rect id="s4-s2-back-box" x="941" y="400" width="143" height="44"/>
+      <rect id="s4-s2-mis-box" x="1088" y="400" width="143" height="44"/>
+      <rect id="s4-s2-mean-box" x="1235" y="400" width="143" height="44"/>
+      <rect id="s5-name-box" x="22" y="448" width="180" height="44"/>
+      <rect id="s5-s1-fwd-box" x="206" y="448" width="143" height="44"/>
+      <rect id="s5-s1-back-box" x="353" y="448" width="143" height="44"/>
+      <rect id="s5-s1-mis-box" x="500" y="448" width="143" height="44"/>
+      <rect id="s5-s1-mean-box" x="647" y="448" width="143" height="44"/>
+      <rect id="s5-s2-fwd-box" x="794" y="448" width="143" height="44"/>
+      <rect id="s5-s2-back-box" x="941" y="448" width="143" height="44"/>
+      <rect id="s5-s2-mis-box" x="1088" y="448" width="143" height="44"/>
+      <rect id="s5-s2-mean-box" x="1235" y="448" width="143" height="44"/>
+      <rect id="s6-name-box" x="22" y="496" width="180" height="44"/>
+      <rect id="s6-s1-fwd-box" x="206" y="496" width="143" height="44"/>
+      <rect id="s6-s1-back-box" x="353" y="496" width="143" height="44"/>
+      <rect id="s6-s1-mis-box" x="500" y="496" width="143" height="44"/>
+      <rect id="s6-s1-mean-box" x="647" y="496" width="143" height="44"/>
+      <rect id="s6-s2-fwd-box" x="794" y="496" width="143" height="44"/>
+      <rect id="s6-s2-back-box" x="941" y="496" width="143" height="44"/>
+      <rect id="s6-s2-mis-box" x="1088" y="496" width="143" height="44"/>
+      <rect id="s6-s2-mean-box" x="1235" y="496" width="143" height="44"/>
+      <rect id="s7-name-box" x="22" y="544" width="180" height="44"/>
+      <rect id="s7-s1-fwd-box" x="206" y="544" width="143" height="44"/>
+      <rect id="s7-s1-back-box" x="353" y="544" width="143" height="44"/>
+      <rect id="s7-s1-mis-box" x="500" y="544" width="143" height="44"/>
+      <rect id="s7-s1-mean-box" x="647" y="544" width="143" height="44"/>
+      <rect id="s7-s2-fwd-box" x="794" y="544" width="143" height="44"/>
+      <rect id="s7-s2-back-box" x="941" y="544" width="143" height="44"/>
+      <rect id="s7-s2-mis-box" x="1088" y="544" width="143" height="44"/>
+      <rect id="s7-s2-mean-box" x="1235" y="544" width="143" height="44"/>
+      <rect id="s8-name-box" x="22" y="592" width="180" height="44"/>
+      <rect id="s8-s1-fwd-box" x="206" y="592" width="143" height="44"/>
+      <rect id="s8-s1-back-box" x="353" y="592" width="143" height="44"/>
+      <rect id="s8-s1-mis-box" x="500" y="592" width="143" height="44"/>
+      <rect id="s8-s1-mean-box" x="647" y="592" width="143" height="44"/>
+      <rect id="s8-s2-fwd-box" x="794" y="592" width="143" height="44"/>
+      <rect id="s8-s2-back-box" x="941" y="592" width="143" height="44"/>
+      <rect id="s8-s2-mis-box" x="1088" y="592" width="143" height="44"/>
+      <rect id="s8-s2-mean-box" x="1235" y="592" width="143" height="44"/>
+      <rect id="sum-avg-s1-box" x="206" y="640" width="584" height="34"/>
+      <rect id="sum-avg-s2-box" x="794" y="640" width="584" height="34"/>
+      <rect id="sum-err-s1-box" x="206" y="678" width="584" height="34"/>
+      <rect id="sum-err-s2-box" x="794" y="678" width="584" height="34"/>
+      <rect id="sum-label-avg-box" x="22" y="640" width="180" height="34"/>
+      <rect id="sum-label-err-box" x="22" y="678" width="180" height="34"/>
+  </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "name": "survey-jujin",
+  "private": true,
+  "version": "0.1.0",
+  "description": "测量学局劲工具",
+  "license": "MulanPSL-2.0",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "test": "node tests/calc-traverse.test.js && node tests/calc-leveling.test.js && node tests/calc-angle-distance.test.js && node tests/traverse-calc.test.js && node tests/summary.test.js && node tests/trig-summary.test.js && node tests/store.test.js && node tests/hits.test.js && node tests/linkage.test.js && node tests/transfer.test.js && node tests/error-bands.test.js && node tests/theme.test.js && node tests/agent-thinking.test.js && node tests/agent-prompt.test.js && node tests/agent-markdown.test.js && node tests/agent-attachments.test.js && node tests/agent-image-plan.test.js && node tests/agent-attachment-store.test.js && node tests/agent-tree.test.js && node tests/agent-store.test.js && node tests/agent-store-save-race.test.js && node tests/agent-store-native.test.js && node tests/agent-llm.test.js && node tests/agent-column.test.js && node tests/agent-math.test.js && node tests/agent-tools.test.js && node tests/agent-history.test.js && node tests/agent-rail.test.js",
+    "test:web-lite": "node tests/calc-traverse.test.js && node tests/calc-leveling.test.js && node tests/calc-angle-distance.test.js && node tests/traverse-calc.test.js && node tests/summary.test.js && node tests/trig-summary.test.js && node tests/store.test.js && node tests/hits.test.js && node tests/linkage.test.js && node tests/transfer.test.js && node tests/error-bands.test.js && node tests/theme.test.js && node tests/web-lite-build.test.js",
+    "build:web": "node tools/build_web_lite.js",
+  "sync:lite-repo": "node tools/sync_web_lite_repo.js",
+    "data": "python tools/build_sheet_data.py"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "2.12.3"
+  }
+}

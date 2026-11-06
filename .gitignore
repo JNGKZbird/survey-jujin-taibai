@@ -1,0 +1,44 @@
+# 依赖与构建产物
+node_modules/
+src-tauri/target/
+src-tauri/gen/
+dist/
+dist-web/
+*.log
+__pycache__/
+*.pyc
+
+# 轻量版子仓库：由 tools/sync_web_lite_repo.js 同步，注册 submodule 时再移除本行
+/lite/
+
+# 本机数据：项目库、对话库、备份与图片附件（绝不入库）
+store.json
+store.corrupt-*.json
+agent.json
+agent.json.bak
+backups/
+attachments/
+
+# 密钥与证书
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地历史快照与验收截图（保留在本机，不进仓库）
+archive/
+docs/验收截图/
+
+# 临时文件
+*.tmp
+*.tmp-*
+.tmp-*

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1674" height="1147.8" viewBox="0 0 1674 1147.8" role="img" aria-label="全站仪导线观测记录表（空白）">
+  <title>全站仪导线观测记录表 — 空白表格（DSH 视觉稿）</title>
+  <desc>按空白表照片透视校正后重建的印刷表单。不含手写与示例数据，数据格全部留空。</desc>
+  <defs>
+    <style>
+      #sheet text { font-family: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif; fill: #1b1b1b; font-size: 26.5px; }
+      #sheet .serif { font-family: "Times New Roman", "Songti SC", "SimSun", serif; }
+      #sheet .unit { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-size: 23.5px; }
+      #sheet .unit-i { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-size: 23.5px; font-style: italic; }
+      #sheet .title { font-family: "Songti SC", "SimSun", "STSong", "Noto Serif CJK SC", serif; font-size: 40px; font-weight: 700; letter-spacing: -5.8px; }
+      #sheet .meta { font-size: 26.5px; }
+      #sheet .lt { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-style: italic; font-size: 27px; }
+      #sheet .unit-lg { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-size: 29px; font-style: italic; }
+      #sheet .line { stroke: #1b1b1b; fill: none; stroke-linecap: square; }
+      #sheet .cells { fill: none; stroke: none; pointer-events: none; }
+    </style>
+  </defs>
+  <g id="sheet">
+    <g id="title">
+      <text class="title" x="839.30" y="56.50" text-anchor="middle">全站仪导线观测记录表</text>
+    </g>
+    <g id="meta-row" aria-label="表头信息行">
+      <text class="meta" x="103.00" y="103.50" text-anchor="start">20</text>
+      <text class="meta" x="172.00" y="103.50" text-anchor="start">年</text>
+      <text class="meta" x="226.00" y="103.50" text-anchor="start">月</text>
+      <text class="meta" x="280.00" y="103.50" text-anchor="start">日</text>
+      <text class="meta" x="437.00" y="103.50" text-anchor="start">观测:</text>
+      <text class="meta" x="692.00" y="103.50" text-anchor="start">记录:</text>
+      <text class="meta" x="987.00" y="103.50" text-anchor="start">计算:</text>
+      <text class="meta" x="1274.00" y="103.50" text-anchor="start">班/组:</text>
+    </g>
+    <g id="table">
+      <g id="frame">
+        <rect class="line" x="16" y="123" width="1642" height="1008.8" stroke-width="3.0"/>
+      </g>
+      <g id="grid-vertical" class="line" stroke-width="1.3">
+        <path id="v1" d="M 158.00 123.00 V 1131.80"/>
+        <path id="v2" d="M 300.00 123.00 V 1131.80"/>
+        <path id="v3" d="M 388.00 123.00 V 1131.80"/>
+        <path id="v4" d="M 555.00 123.00 V 1131.80"/>
+        <path id="v5" d="M 643.00 123.00 V 1131.80"/>
+        <path id="v6" d="M 810.00 123.00 V 1131.80"/>
+        <path id="v7" d="M 977.00 123.00 V 1131.80"/>
+        <path id="v8" d="M 1065.00 123.00 V 1131.80"/>
+        <path id="v9" d="M 1232.00 123.00 V 1131.80"/>
+        <path id="v10" d="M 1374.00 123.00 V 1131.80"/>
+        <path id="v11" d="M 1516.00 123.00 V 1131.80"/>
+      </g>
+      <g id="grid-horizontal" class="line">
+        <path id="h-header-bottom" d="M 16.00 267.80 H 1658.00" stroke-width="2.2"/>
+        <path id="h-block-2" d="M 16.00 483.80 H 1658.00" stroke-width="2.2"/>
+        <path id="h-block-3" d="M 16.00 699.80 H 1658.00" stroke-width="2.2"/>
+        <path id="h-block-4" d="M 16.00 915.80 H 1658.00" stroke-width="2.2"/>
+        <g id="s1-h12" stroke-width="1.3">
+          <path id="s1-h12-1" d="M 300.00 321.80 H 555.00"/>
+          <path id="s1-h12-2" d="M 643.00 321.80 H 977.00"/>
+          <path id="s1-h12-3" d="M 1232.00 321.80 H 1374.00"/>
+        </g>
+        <g id="s1-h23" stroke-width="1.3">
+          <path id="s1-h23-1" d="M 158.00 375.80 H 643.00"/>
+          <path id="s1-h23-2" d="M 810.00 375.80 H 1658.00"/>
+        </g>
+        <g id="s1-h34" stroke-width="1.3">
+          <path id="s1-h34-1" d="M 300.00 429.80 H 555.00"/>
+          <path id="s1-h34-2" d="M 643.00 429.80 H 977.00"/>
+          <path id="s1-h34-3" d="M 1232.00 429.80 H 1374.00"/>
+        </g>
+        <g id="s2-h12" stroke-width="1.3">
+          <path id="s2-h12-1" d="M 300.00 537.80 H 555.00"/>
+          <path id="s2-h12-2" d="M 643.00 537.80 H 977.00"/>
+          <path id="s2-h12-3" d="M 1232.00 537.80 H 1374.00"/>
+        </g>
+        <g id="s2-h23" stroke-width="1.3">
+          <path id="s2-h23-1" d="M 158.00 591.80 H 643.00"/>
+          <path id="s2-h23-2" d="M 810.00 591.80 H 1658.00"/>
+        </g>
+        <g id="s2-h34" stroke-width="1.3">
+          <path id="s2-h34-1" d="M 300.00 645.80 H 555.00"/>
+          <path id="s2-h34-2" d="M 643.00 645.80 H 977.00"/>
+          <path id="s2-h34-3" d="M 1232.00 645.80 H 1374.00"/>
+        </g>
+        <g id="s3-h12" stroke-width="1.3">
+          <path id="s3-h12-1" d="M 300.00 753.80 H 555.00"/>
+          <path id="s3-h12-2" d="M 643.00 753.80 H 977.00"/>
+          <path id="s3-h12-3" d="M 1232.00 753.80 H 1374.00"/>
+        </g>
+        <g id="s3-h23" stroke-width="1.3">
+          <path id="s3-h23-1" d="M 158.00 807.80 H 643.00"/>
+          <path id="s3-h23-2" d="M 810.00 807.80 H 1658.00"/>
+        </g>
+        <g id="s3-h34" stroke-width="1.3">
+          <path id="s3-h34-1" d="M 300.00 861.80 H 555.00"/>
+          <path id="s3-h34-2" d="M 643.00 861.80 H 977.00"/>
+          <path id="s3-h34-3" d="M 1232.00 861.80 H 1374.00"/>
+        </g>
+        <g id="s4-h12" stroke-width="1.3">
+          <path id="s4-h12-1" d="M 300.00 969.80 H 555.00"/>
+          <path id="s4-h12-2" d="M 643.00 969.80 H 977.00"/>
+          <path id="s4-h12-3" d="M 1232.00 969.80 H 1374.00"/>
+        </g>
+        <g id="s4-h23" stroke-width="1.3">
+          <path id="s4-h23-1" d="M 158.00 1023.80 H 643.00"/>
+          <path id="s4-h23-2" d="M 810.00 1023.80 H 1658.00"/>
+        </g>
+        <g id="s4-h34" stroke-width="1.3">
+          <path id="s4-h34-1" d="M 300.00 1077.80 H 555.00"/>
+          <path id="s4-h34-2" d="M 643.00 1077.80 H 977.00"/>
+          <path id="s4-h34-3" d="M 1232.00 1077.80 H 1374.00"/>
+        </g>
+      </g>
+      <g id="diagonals" class="line" stroke-width="1.3">
+        <path id="hdr-diag-station" d="M 16.00 267.80 L 158.00 123.00"/>
+        <path id="hdr-diag-target" d="M 158.00 267.80 L 300.00 123.00"/>
+        <path id="s1-diag-station" d="M 16.00 483.80 L 158.00 267.80"/>
+        <path id="s1-diag-target1" d="M 158.00 375.80 L 300.00 267.80"/>
+        <path id="s1-diag-target2" d="M 158.00 483.80 L 300.00 375.80"/>
+        <path id="s2-diag-station" d="M 16.00 699.80 L 158.00 483.80"/>
+        <path id="s2-diag-target1" d="M 158.00 591.80 L 300.00 483.80"/>
+        <path id="s2-diag-target2" d="M 158.00 699.80 L 300.00 591.80"/>
+        <path id="s3-diag-station" d="M 16.00 915.80 L 158.00 699.80"/>
+        <path id="s3-diag-target1" d="M 158.00 807.80 L 300.00 699.80"/>
+        <path id="s3-diag-target2" d="M 158.00 915.80 L 300.00 807.80"/>
+        <path id="s4-diag-station" d="M 16.00 1131.80 L 158.00 915.80"/>
+        <path id="s4-diag-target1" d="M 158.00 1023.80 L 300.00 915.80"/>
+        <path id="s4-diag-target2" d="M 158.00 1131.80 L 300.00 1023.80"/>
+      </g>
+    <g id="header-text">
+      <text x="79.00" y="155.00" text-anchor="middle">测站</text>
+      <text x="111.00" y="222.00" text-anchor="middle">仪器</text>
+      <text x="75.00" y="256.00" text-anchor="start">高<tspan class="unit-lg">(m)</tspan></text>
+      <text x="217.00" y="155.00" text-anchor="middle">目标</text>
+      <text x="260.00" y="222.00" text-anchor="middle">棱镜</text>
+      <text x="223.00" y="256.00" text-anchor="start">高<tspan class="unit-lg">(m)</tspan></text>
+      <text x="346.00" y="207.00" text-anchor="middle">盘位</text>
+      <text x="474.00" y="193.00" text-anchor="middle" letter-spacing="-1.1">水平度盘读数</text>
+      <text x="474.50" y="221.00" text-anchor="middle" class="unit" textLength="119" lengthAdjust="spacing">(° ′ ″)</text>
+      <text x="603.00" y="193.00" text-anchor="middle" style="font-size:24.5px" font-family="Times New Roman, Songti SC, SimSun, serif">2C</text>
+      <text x="602.50" y="221.00" text-anchor="middle" class="unit" textLength="42" lengthAdjust="spacing">(″)</text>
+      <text x="728.50" y="193.00" text-anchor="middle">水平角值</text>
+      <text x="735.50" y="221.00" text-anchor="middle" class="unit" textLength="117" lengthAdjust="spacing">(° ′ ″)</text>
+      <text x="895.00" y="193.00" text-anchor="middle">竖盘读数</text>
+      <text x="902.00" y="221.00" text-anchor="middle" class="unit" textLength="118" lengthAdjust="spacing">(° ′ ″)</text>
+      <text x="1023.50" y="177.00" text-anchor="middle" letter-spacing="-1.5" font-weight="700">指标</text>
+      <text x="1023.50" y="208.00" text-anchor="middle" font-weight="700">差</text>
+      <text x="1029.00" y="236.00" text-anchor="middle" class="unit" textLength="42" lengthAdjust="spacing">(″)</text>
+      <text x="1150.00" y="193.00" text-anchor="middle" font-weight="700" textLength="99" lengthAdjust="spacing">竖直角</text>
+      <text x="1157.00" y="221.00" text-anchor="middle" class="unit" textLength="118" lengthAdjust="spacing">(° ′ ″)</text>
+      <text x="1305.50" y="189.50" text-anchor="middle" textLength="76" lengthAdjust="spacing">斜距</text>
+      <text x="1305.50" y="217.00" text-anchor="middle" class="unit-i" textLength="39" lengthAdjust="spacing">(m)</text>
+      <text x="1446.50" y="189.50" text-anchor="middle" textLength="76" lengthAdjust="spacing">平距</text>
+      <text x="1447.50" y="217.00" text-anchor="middle" class="unit-i" textLength="39" lengthAdjust="spacing">(m)</text>
+      <text x="1588.00" y="189.50" text-anchor="middle" textLength="75" lengthAdjust="spacing">高差</text>
+      <text x="1588.50" y="217.00" text-anchor="middle" class="unit-i" textLength="39" lengthAdjust="spacing">(m)</text>
+    </g>
+    </g>
+    <g id="body">
+      <g id="station-1" data-station="1">
+        <text class="lt" id="s1-r1-face-glyph" x="343.00" y="305.70" text-anchor="middle">L</text>
+        <text class="lt" id="s1-r2-face-glyph" x="343.00" y="359.70" text-anchor="middle">R</text>
+        <text class="lt" id="s1-r3-face-glyph" x="343.00" y="413.70" text-anchor="middle">L</text>
+        <text class="lt" id="s1-r4-face-glyph" x="343.00" y="467.70" text-anchor="middle">R</text>
+        <text class="serif" id="s1-angle-l-glyph" style="font-size:26px" x="649.00" y="296.30" text-anchor="start">L</text>
+        <text class="lbl" id="s1-angle-avg-glyph" style="font-size:23px" x="649.50" y="349.50" text-anchor="start">平均值:</text>
+        <text class="serif" id="s1-angle-r-glyph" style="font-size:26px" x="649.00" y="457.30" text-anchor="start">R</text>
+      </g>
+      <g id="station-2" data-station="2">
+        <text class="lt" id="s2-r1-face-glyph" x="343.00" y="521.70" text-anchor="middle">L</text>
+        <text class="lt" id="s2-r2-face-glyph" x="343.00" y="575.70" text-anchor="middle">R</text>
+        <text class="lt" id="s2-r3-face-glyph" x="343.00" y="629.70" text-anchor="middle">L</text>
+        <text class="lt" id="s2-r4-face-glyph" x="343.00" y="683.70" text-anchor="middle">R</text>
+        <text class="serif" id="s2-angle-l-glyph" style="font-size:26px" x="649.00" y="512.30" text-anchor="start">L</text>
+        <text class="lbl" id="s2-angle-avg-glyph" style="font-size:23px" x="649.50" y="565.50" text-anchor="start">平均值:</text>
+        <text class="serif" id="s2-angle-r-glyph" style="font-size:26px" x="649.00" y="673.30" text-anchor="start">R</text>
+      </g>
+      <g id="station-3" data-station="3">
+        <text class="lt" id="s3-r1-face-glyph" x="343.00" y="737.70" text-anchor="middle">L</text>
+        <text class="lt" id="s3-r2-face-glyph" x="343.00" y="791.70" text-anchor="middle">R</text>
+        <text class="lt" id="s3-r3-face-glyph" x="343.00" y="845.70" text-anchor="middle">L</text>
+        <text class="lt" id="s3-r4-face-glyph" x="343.00" y="899.70" text-anchor="middle">R</text>
+        <text class="serif" id="s3-angle-l-glyph" style="font-size:26px" x="649.00" y="728.30" text-anchor="start">L</text>
+        <text class="lbl" id="s3-angle-avg-glyph" style="font-size:23px" x="649.50" y="781.50" text-anchor="start">平均值:</text>
+        <text class="serif" id="s3-angle-r-glyph" style="font-size:26px" x="649.00" y="889.30" text-anchor="start">R</text>
+      </g>
+      <g id="station-4" data-station="4">
+        <text class="lt" id="s4-r1-face-glyph" x="343.00" y="953.70" text-anchor="middle">L</text>
+        <text class="lt" id="s4-r2-face-glyph" x="343.00" y="1007.70" text-anchor="middle">R</text>
+        <text class="lt" id="s4-r3-face-glyph" x="343.00" y="1061.70" text-anchor="middle">L</text>
+        <text class="lt" id="s4-r4-face-glyph" x="343.00" y="1115.70" text-anchor="middle">R</text>
+        <text class="serif" id="s4-angle-l-glyph" style="font-size:26px" x="649.00" y="944.30" text-anchor="start">L</text>
+        <text class="lbl" id="s4-angle-avg-glyph" style="font-size:23px" x="649.50" y="997.50" text-anchor="start">平均值:</text>
+        <text class="serif" id="s4-angle-r-glyph" style="font-size:26px" x="649.00" y="1105.30" text-anchor="start">R</text>
+      </g>
+    </g>
+    <g id="cells" class="cells">
+      <rect id="meta-year" x="132" y="204" width="38" height="27"/>
+      <rect id="meta-month" x="199" y="204" width="26" height="27"/>
+      <rect id="meta-day" x="250" y="204" width="32" height="27"/>
+      <rect id="meta-observer" x="500" y="204" width="184" height="27"/>
+      <rect id="meta-recorder" x="756" y="204" width="223" height="27"/>
+      <rect id="meta-calculator" x="1050" y="204" width="216" height="27"/>
+      <rect id="meta-group" x="1344" y="204" width="302" height="27"/>
+      <rect id="s1-r1-face-label" x="331" y="285.8" width="24" height="18"/>
+      <rect id="s1-r2-face-label" x="331" y="339.8" width="24" height="18"/>
+      <rect id="s1-r3-face-label" x="331" y="393.8" width="24" height="18"/>
+      <rect id="s1-r4-face-label" x="331" y="447.8" width="24" height="18"/>
+      <rect id="s1-angle-l-label" x="649" y="275.8" width="24" height="19"/>
+      <rect id="s1-angle-avg-label" x="650" y="327.8" width="76" height="23"/>
+      <rect id="s1-angle-r-label" x="649" y="436.8" width="24" height="19"/>
+      <rect id="s2-r1-face-label" x="331" y="501.8" width="24" height="18"/>
+      <rect id="s2-r2-face-label" x="331" y="555.8" width="24" height="18"/>
+      <rect id="s2-r3-face-label" x="331" y="609.8" width="24" height="18"/>
+      <rect id="s2-r4-face-label" x="331" y="663.8" width="24" height="18"/>
+      <rect id="s2-angle-l-label" x="649" y="491.8" width="24" height="19"/>
+      <rect id="s2-angle-avg-label" x="650" y="543.8" width="76" height="23"/>
+      <rect id="s2-angle-r-label" x="649" y="652.8" width="24" height="19"/>
+      <rect id="s3-r1-face-label" x="331" y="717.8" width="24" height="18"/>
+      <rect id="s3-r2-face-label" x="331" y="771.8" width="24" height="18"/>
+      <rect id="s3-r3-face-label" x="331" y="825.8" width="24" height="18"/>
+      <rect id="s3-r4-face-label" x="331" y="879.8" width="24" height="18"/>
+      <rect id="s3-angle-l-label" x="649" y="707.8" width="24" height="19"/>
+      <rect id="s3-angle-avg-label" x="650" y="759.8" width="76" height="23"/>
+      <rect id="s3-angle-r-label" x="649" y="868.8" width="24" height="19"/>
+      <rect id="s4-r1-face-label" x="331" y="933.8" width="24" height="18"/>
+      <rect id="s4-r2-face-label" x="331" y="987.8" width="24" height="18"/>
+      <rect id="s4-r3-face-label" x="331" y="1041.8" width="24" height="18"/>
+      <rect id="s4-r4-face-label" x="331" y="1095.8" width="24" height="18"/>
+      <rect id="s4-angle-l-label" x="649" y="923.8" width="24" height="19"/>
+      <rect id="s4-angle-avg-label" x="650" y="975.8" width="76" height="23"/>
+      <rect id="s4-angle-r-label" x="649" y="1084.8" width="24" height="19"/>
+      <rect id="s1-station" x="24" y="303.8" width="88" height="26"/>
+      <rect id="s1-instrument-height" x="66" y="417.8" width="84" height="28"/>
+      <rect id="s1-r1-target" x="166" y="275.8" width="82" height="26"/>
+      <rect id="s1-r1-prism" x="212" y="341.8" width="82" height="26"/>
+      <rect id="s1-r3-target" x="166" y="383.8" width="82" height="26"/>
+      <rect id="s1-r3-prism" x="212" y="449.8" width="82" height="26"/>
+      <rect id="s1-r1-face" x="302.5" y="270.3" width="83" height="49"/>
+      <rect id="s1-r1-h" x="390.5" y="270.3" width="162" height="49"/>
+      <rect id="s1-r1-v" x="812.5" y="270.3" width="162" height="49"/>
+      <rect id="s1-r1-s" x="1234.5" y="270.3" width="137" height="49"/>
+      <rect id="s1-r2-face" x="302.5" y="324.3" width="83" height="49"/>
+      <rect id="s1-r2-h" x="390.5" y="324.3" width="162" height="49"/>
+      <rect id="s1-r2-v" x="812.5" y="324.3" width="162" height="49"/>
+      <rect id="s1-r2-s" x="1234.5" y="324.3" width="137" height="49"/>
+      <rect id="s1-r3-face" x="302.5" y="378.3" width="83" height="49"/>
+      <rect id="s1-r3-h" x="390.5" y="378.3" width="162" height="49"/>
+      <rect id="s1-r3-v" x="812.5" y="378.3" width="162" height="49"/>
+      <rect id="s1-r3-s" x="1234.5" y="378.3" width="137" height="49"/>
+      <rect id="s1-r4-face" x="302.5" y="432.3" width="83" height="49"/>
+      <rect id="s1-r4-h" x="390.5" y="432.3" width="162" height="49"/>
+      <rect id="s1-r4-v" x="812.5" y="432.3" width="162" height="49"/>
+      <rect id="s1-r4-s" x="1234.5" y="432.3" width="137" height="49"/>
+      <rect id="s1-r1-c2" x="557.5" y="270.3" width="83" height="103"/>
+      <rect id="s1-r1-x" x="979.5" y="270.3" width="83" height="103"/>
+      <rect id="s1-r1-alpha" x="1067.5" y="270.3" width="162" height="103"/>
+      <rect id="s1-r1-d" x="1376.5" y="270.3" width="137" height="103"/>
+      <rect id="s1-r1-hgt" x="1518.5" y="270.3" width="137" height="103"/>
+      <rect id="s1-r3-c2" x="557.5" y="378.3" width="83" height="103"/>
+      <rect id="s1-r3-x" x="979.5" y="378.3" width="83" height="103"/>
+      <rect id="s1-r3-alpha" x="1067.5" y="378.3" width="162" height="103"/>
+      <rect id="s1-r3-d" x="1376.5" y="378.3" width="137" height="103"/>
+      <rect id="s1-r3-hgt" x="1518.5" y="378.3" width="137" height="103"/>
+      <rect id="s1-angle" x="645.5" y="270.3" width="162" height="211"/>
+      <rect id="s1-angle-l" x="669" y="270.8" width="138.5" height="48"/>
+      <rect id="s1-angle-avg" x="729" y="324.8" width="78.5" height="102"/>
+      <rect id="s1-angle-r" x="669" y="432.8" width="138.5" height="48"/>
+      <rect id="s2-station" x="24" y="519.8" width="88" height="26"/>
+      <rect id="s2-instrument-height" x="66" y="633.8" width="84" height="28"/>
+      <rect id="s2-r1-target" x="166" y="491.8" width="82" height="26"/>
+      <rect id="s2-r1-prism" x="212" y="557.8" width="82" height="26"/>
+      <rect id="s2-r3-target" x="166" y="599.8" width="82" height="26"/>
+      <rect id="s2-r3-prism" x="212" y="665.8" width="82" height="26"/>
+      <rect id="s2-r1-face" x="302.5" y="486.3" width="83" height="49"/>
+      <rect id="s2-r1-h" x="390.5" y="486.3" width="162" height="49"/>
+      <rect id="s2-r1-v" x="812.5" y="486.3" width="162" height="49"/>
+      <rect id="s2-r1-s" x="1234.5" y="486.3" width="137" height="49"/>
+      <rect id="s2-r2-face" x="302.5" y="540.3" width="83" height="49"/>
+      <rect id="s2-r2-h" x="390.5" y="540.3" width="162" height="49"/>
+      <rect id="s2-r2-v" x="812.5" y="540.3" width="162" height="49"/>
+      <rect id="s2-r2-s" x="1234.5" y="540.3" width="137" height="49"/>
+      <rect id="s2-r3-face" x="302.5" y="594.3" width="83" height="49"/>
+      <rect id="s2-r3-h" x="390.5" y="594.3" width="162" height="49"/>
+      <rect id="s2-r3-v" x="812.5" y="594.3" width="162" height="49"/>
+      <rect id="s2-r3-s" x="1234.5" y="594.3" width="137" height="49"/>
+      <rect id="s2-r4-face" x="302.5" y="648.3" width="83" height="49"/>
+      <rect id="s2-r4-h" x="390.5" y="648.3" width="162" height="49"/>
+      <rect id="s2-r4-v" x="812.5" y="648.3" width="162" height="49"/>
+      <rect id="s2-r4-s" x="1234.5" y="648.3" width="137" height="49"/>
+      <rect id="s2-r1-c2" x="557.5" y="486.3" width="83" height="103"/>
+      <rect id="s2-r1-x" x="979.5" y="486.3" width="83" height="103"/>
+      <rect id="s2-r1-alpha" x="1067.5" y="486.3" width="162" height="103"/>
+      <rect id="s2-r1-d" x="1376.5" y="486.3" width="137" height="103"/>
+      <rect id="s2-r1-hgt" x="1518.5" y="486.3" width="137" height="103"/>
+      <rect id="s2-r3-c2" x="557.5" y="594.3" width="83" height="103"/>
+      <rect id="s2-r3-x" x="979.5" y="594.3" width="83" height="103"/>
+      <rect id="s2-r3-alpha" x="1067.5" y="594.3" width="162" height="103"/>
+      <rect id="s2-r3-d" x="1376.5" y="594.3" width="137" height="103"/>
+      <rect id="s2-r3-hgt" x="1518.5" y="594.3" width="137" height="103"/>
+      <rect id="s2-angle" x="645.5" y="486.3" width="162" height="211"/>
+      <rect id="s2-angle-l" x="669" y="486.8" width="138.5" height="48"/>
+      <rect id="s2-angle-avg" x="729" y="540.8" width="78.5" height="102"/>
+      <rect id="s2-angle-r" x="669" y="648.8" width="138.5" height="48"/>
+      <rect id="s3-station" x="24" y="735.8" width="88" height="26"/>
+      <rect id="s3-instrument-height" x="66" y="849.8" width="84" height="28"/>
+      <rect id="s3-r1-target" x="166" y="707.8" width="82" height="26"/>
+      <rect id="s3-r1-prism" x="212" y="773.8" width="82" height="26"/>
+      <rect id="s3-r3-target" x="166" y="815.8" width="82" height="26"/>
+      <rect id="s3-r3-prism" x="212" y="881.8" width="82" height="26"/>
+      <rect id="s3-r1-face" x="302.5" y="702.3" width="83" height="49"/>
+      <rect id="s3-r1-h" x="390.5" y="702.3" width="162" height="49"/>
+      <rect id="s3-r1-v" x="812.5" y="702.3" width="162" height="49"/>
+      <rect id="s3-r1-s" x="1234.5" y="702.3" width="137" height="49"/>
+      <rect id="s3-r2-face" x="302.5" y="756.3" width="83" height="49"/>
+      <rect id="s3-r2-h" x="390.5" y="756.3" width="162" height="49"/>
+      <rect id="s3-r2-v" x="812.5" y="756.3" width="162" height="49"/>
+      <rect id="s3-r2-s" x="1234.5" y="756.3" width="137" height="49"/>
+      <rect id="s3-r3-face" x="302.5" y="810.3" width="83" height="49"/>
+      <rect id="s3-r3-h" x="390.5" y="810.3" width="162" height="49"/>
+      <rect id="s3-r3-v" x="812.5" y="810.3" width="162" height="49"/>
+      <rect id="s3-r3-s" x="1234.5" y="810.3" width="137" height="49"/>
+      <rect id="s3-r4-face" x="302.5" y="864.3" width="83" height="49"/>
+      <rect id="s3-r4-h" x="390.5" y="864.3" width="162" height="49"/>
+      <rect id="s3-r4-v" x="812.5" y="864.3" width="162" height="49"/>
+      <rect id="s3-r4-s" x="1234.5" y="864.3" width="137" height="49"/>
+      <rect id="s3-r1-c2" x="557.5" y="702.3" width="83" height="103"/>
+      <rect id="s3-r1-x" x="979.5" y="702.3" width="83" height="103"/>
+      <rect id="s3-r1-alpha" x="1067.5" y="702.3" width="162" height="103"/>
+      <rect id="s3-r1-d" x="1376.5" y="702.3" width="137" height="103"/>
+      <rect id="s3-r1-hgt" x="1518.5" y="702.3" width="137" height="103"/>
+      <rect id="s3-r3-c2" x="557.5" y="810.3" width="83" height="103"/>
+      <rect id="s3-r3-x" x="979.5" y="810.3" width="83" height="103"/>
+      <rect id="s3-r3-alpha" x="1067.5" y="810.3" width="162" height="103"/>
+      <rect id="s3-r3-d" x="1376.5" y="810.3" width="137" height="103"/>
+      <rect id="s3-r3-hgt" x="1518.5" y="810.3" width="137" height="103"/>
+      <rect id="s3-angle" x="645.5" y="702.3" width="162" height="211"/>
+      <rect id="s3-angle-l" x="669" y="702.8" width="138.5" height="48"/>
+      <rect id="s3-angle-avg" x="729" y="756.8" width="78.5" height="102"/>
+      <rect id="s3-angle-r" x="669" y="864.8" width="138.5" height="48"/>
+      <rect id="s4-station" x="24" y="951.8" width="88" height="26"/>
+      <rect id="s4-instrument-height" x="66" y="1065.8" width="84" height="28"/>
+      <rect id="s4-r1-target" x="166" y="923.8" width="82" height="26"/>
+      <rect id="s4-r1-prism" x="212" y="989.8" width="82" height="26"/>
+      <rect id="s4-r3-target" x="166" y="1031.8" width="82" height="26"/>
+      <rect id="s4-r3-prism" x="212" y="1097.8" width="82" height="26"/>
+      <rect id="s4-r1-face" x="302.5" y="918.3" width="83" height="49"/>
+      <rect id="s4-r1-h" x="390.5" y="918.3" width="162" height="49"/>
+      <rect id="s4-r1-v" x="812.5" y="918.3" width="162" height="49"/>
+      <rect id="s4-r1-s" x="1234.5" y="918.3" width="137" height="49"/>
+      <rect id="s4-r2-face" x="302.5" y="972.3" width="83" height="49"/>
+      <rect id="s4-r2-h" x="390.5" y="972.3" width="162" height="49"/>
+      <rect id="s4-r2-v" x="812.5" y="972.3" width="162" height="49"/>
+      <rect id="s4-r2-s" x="1234.5" y="972.3" width="137" height="49"/>
+      <rect id="s4-r3-face" x="302.5" y="1026.3" width="83" height="49"/>
+      <rect id="s4-r3-h" x="390.5" y="1026.3" width="162" height="49"/>
+      <rect id="s4-r3-v" x="812.5" y="1026.3" width="162" height="49"/>
+      <rect id="s4-r3-s" x="1234.5" y="1026.3" width="137" height="49"/>
+      <rect id="s4-r4-face" x="302.5" y="1080.3" width="83" height="49"/>
+      <rect id="s4-r4-h" x="390.5" y="1080.3" width="162" height="49"/>
+      <rect id="s4-r4-v" x="812.5" y="1080.3" width="162" height="49"/>
+      <rect id="s4-r4-s" x="1234.5" y="1080.3" width="137" height="49"/>
+      <rect id="s4-r1-c2" x="557.5" y="918.3" width="83" height="103"/>
+      <rect id="s4-r1-x" x="979.5" y="918.3" width="83" height="103"/>
+      <rect id="s4-r1-alpha" x="1067.5" y="918.3" width="162" height="103"/>
+      <rect id="s4-r1-d" x="1376.5" y="918.3" width="137" height="103"/>
+      <rect id="s4-r1-hgt" x="1518.5" y="918.3" width="137" height="103"/>
+      <rect id="s4-r3-c2" x="557.5" y="1026.3" width="83" height="103"/>
+      <rect id="s4-r3-x" x="979.5" y="1026.3" width="83" height="103"/>
+      <rect id="s4-r3-alpha" x="1067.5" y="1026.3" width="162" height="103"/>
+      <rect id="s4-r3-d" x="1376.5" y="1026.3" width="137" height="103"/>
+      <rect id="s4-r3-hgt" x="1518.5" y="1026.3" width="137" height="103"/>
+      <rect id="s4-angle" x="645.5" y="918.3" width="162" height="211"/>
+      <rect id="s4-angle-l" x="669" y="918.8" width="138.5" height="48"/>
+      <rect id="s4-angle-avg" x="729" y="972.8" width="78.5" height="102"/>
+      <rect id="s4-angle-r" x="669" y="1080.8" width="138.5" height="48"/>
+    </g>
+  </g>
+</svg>

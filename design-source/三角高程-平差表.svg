@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1548" height="1356.5" viewBox="0 0 1548 1356.5" role="img" aria-label="三角高程测量平差表（空白）">
+  <title>三角高程测量平差表 — 空白表格（DSH 视觉稿）</title>
+  <desc>按纸质表照片透视校正后重建的印刷表单；不含手写与示例数据。</desc>
+  <defs>
+    <style>
+      #sheet text { font-family: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif; fill: #1b1b1b; font-size: 20px; }
+      #sheet .serif { font-family: "Times New Roman", "Songti SC", "SimSun", serif; }
+      #sheet .unit { font-family: "Times New Roman", "Songti SC", "SimSun", serif; font-size: 18px; }
+      #sheet .title { font-family: "HarmonyOS Sans SC", "PingFang SC", "Microsoft YaHei", "SimHei", sans-serif; font-size: 34px; font-weight: 700; }
+      #sheet .meta { font-size: 22px; }
+      #sheet .diag { font-size: 19px; }
+      #sheet .line { stroke: #1b1b1b; fill: none; stroke-linecap: square; }
+      #sheet .cells { fill: none; stroke: none; pointer-events: none; }
+    </style>
+  </defs>
+  <g id="sheet">
+    <g id="title">
+      <text class="title" x="774.00" y="70" text-anchor="middle">三角高程测量平差表</text>
+    </g>
+    <g id="meta-row">
+      <text class="meta" x="24" y="116" text-anchor="start">起点高程</text>
+      <text class="unit" x="118" y="116" text-anchor="start">(m)</text>
+      <text class="meta" x="300" y="116" text-anchor="start">计算:</text>
+      <text class="meta" x="780" y="116" text-anchor="start">检核:</text>
+      <text class="meta" x="1140" y="116" text-anchor="start">班/组:</text>
+    </g>
+    <g id="table">
+      <rect id="frame" class="line" x="24" y="140" width="1500" height="1176.5" stroke-width="2.6"/>
+      <g id="grid-vertical" class="line" stroke-width="1.15">
+        <path id="v1" d="M 90.0 140 V 1214.5"/>
+        <path id="v2" d="M 279.5 182 V 1214.5"/>
+        <path id="v3" d="M 469.0 140 V 1214.5"/>
+        <path id="v4" d="M 587.0 182 V 1214.5"/>
+        <path id="v5" d="M 703.5 140 V 1214.5"/>
+        <path id="v6" d="M 819.5 182 V 1214.5"/>
+        <path id="v7" d="M 935.6 182 V 1214.5"/>
+        <path id="v8" d="M 1054.0 140 V 1214.5"/>
+        <path id="v9" d="M 1172.5 140 V 1214.5"/>
+        <path id="v10" d="M 1289.4 140 V 1214.5"/>
+        <path id="v11" d="M 1405.5 140 V 1214.5"/>
+        <path id="v3-sig" d="M 469.0 1214.5 V 1254.5"/>
+        <path id="v4-sig" d="M 587.0 1214.5 V 1254.5"/>
+        <path id="v5-sig" d="M 703.5 1214.5 V 1254.5"/>
+        <path id="v6-sig" d="M 819.5 1214.5 V 1254.5"/>
+        <path id="v7-sig" d="M 935.6 1214.5 V 1254.5"/>
+        <path id="v8-sig" d="M 1054.0 1214.5 V 1254.5"/>
+        <path id="v9-sig" d="M 1172.5 1214.5 V 1254.5"/>
+        <path id="v10-sig" d="M 1289.4 1214.5 V 1254.5"/>
+        <path id="v11-sig" d="M 1405.5 1214.5 V 1254.5"/>
+        <path id="v11-eval" d="M 1405.5 1254.5 V 1316.5"/>
+      </g>
+      <g id="grid-horizontal" class="line">
+        <path id="h-h1" d="M 90.0 182.0 H 1054.0" stroke-width="1.9"/>
+        <path id="h-h2" d="M 90.0 254.0 H 1405.5" stroke-width="1.9"/>
+        <path id="h-r1" d="M 24 310.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r2" d="M 24 367.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r3" d="M 24 423.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r4" d="M 24 480.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r5" d="M 24 536.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r6" d="M 24 593.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r7" d="M 24 649.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r8" d="M 24 706.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r9" d="M 24 762.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r10" d="M 24 819.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r11" d="M 24 875.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r12" d="M 24 932.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r13" d="M 24 988.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r14" d="M 24 1045.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r15" d="M 24 1101.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-r16" d="M 24 1158.0 H 1405.5" stroke-width="1.15"/>
+        <path id="h-data-end" d="M 24 1214.5 H 1405.5" stroke-width="1.9"/>
+        <path id="h-sum-end" d="M 24 1254.5 H 1405.5" stroke-width="1.15"/>
+        <path id="h-eval" d="M 24 1316.5 H 1405.5" stroke-width="1.9"/>
+      </g>
+      <g id="diagonals" class="line" stroke-width="1.15">
+        <path id="hdr-diag-1" d="M 90.0 254.0 L 279.5 182.0"/>
+        <path id="hdr-diag-2" d="M 279.5 254.0 L 469.0 182.0"/>
+        <path id="s1-diag-1" d="M 90.0 310.5 L 279.5 254.0"/>
+        <path id="s1-diag-2" d="M 279.5 310.5 L 469.0 254.0"/>
+        <path id="s2-diag-1" d="M 90.0 367.0 L 279.5 310.5"/>
+        <path id="s2-diag-2" d="M 279.5 367.0 L 469.0 310.5"/>
+        <path id="s3-diag-1" d="M 90.0 423.5 L 279.5 367.0"/>
+        <path id="s3-diag-2" d="M 279.5 423.5 L 469.0 367.0"/>
+        <path id="s4-diag-1" d="M 90.0 480.0 L 279.5 423.5"/>
+        <path id="s4-diag-2" d="M 279.5 480.0 L 469.0 423.5"/>
+        <path id="s5-diag-1" d="M 90.0 536.5 L 279.5 480.0"/>
+        <path id="s5-diag-2" d="M 279.5 536.5 L 469.0 480.0"/>
+        <path id="s6-diag-1" d="M 90.0 593.0 L 279.5 536.5"/>
+        <path id="s6-diag-2" d="M 279.5 593.0 L 469.0 536.5"/>
+        <path id="s7-diag-1" d="M 90.0 649.5 L 279.5 593.0"/>
+        <path id="s7-diag-2" d="M 279.5 649.5 L 469.0 593.0"/>
+        <path id="s8-diag-1" d="M 90.0 706.0 L 279.5 649.5"/>
+        <path id="s8-diag-2" d="M 279.5 706.0 L 469.0 649.5"/>
+        <path id="s9-diag-1" d="M 90.0 762.5 L 279.5 706.0"/>
+        <path id="s9-diag-2" d="M 279.5 762.5 L 469.0 706.0"/>
+        <path id="s10-diag-1" d="M 90.0 819.0 L 279.5 762.5"/>
+        <path id="s10-diag-2" d="M 279.5 819.0 L 469.0 762.5"/>
+        <path id="s11-diag-1" d="M 90.0 875.5 L 279.5 819.0"/>
+        <path id="s11-diag-2" d="M 279.5 875.5 L 469.0 819.0"/>
+        <path id="s12-diag-1" d="M 90.0 932.0 L 279.5 875.5"/>
+        <path id="s12-diag-2" d="M 279.5 932.0 L 469.0 875.5"/>
+        <path id="s13-diag-1" d="M 90.0 988.5 L 279.5 932.0"/>
+        <path id="s13-diag-2" d="M 279.5 988.5 L 469.0 932.0"/>
+        <path id="s14-diag-1" d="M 90.0 1045.0 L 279.5 988.5"/>
+        <path id="s14-diag-2" d="M 279.5 1045.0 L 469.0 988.5"/>
+        <path id="s15-diag-1" d="M 90.0 1101.5 L 279.5 1045.0"/>
+        <path id="s15-diag-2" d="M 279.5 1101.5 L 469.0 1045.0"/>
+        <path id="s16-diag-1" d="M 90.0 1158.0 L 279.5 1101.5"/>
+        <path id="s16-diag-2" d="M 279.5 1158.0 L 469.0 1101.5"/>
+        <path id="s17-diag-1" d="M 90.0 1214.5 L 279.5 1158.0"/>
+        <path id="s17-diag-2" d="M 279.5 1214.5 L 469.0 1158.0"/>
+        <path id="sig-diag-4" d="M 587.0 1254.5 L 703.5 1214.5"/>
+        <path id="sig-diag-6" d="M 819.5 1254.5 L 935.6 1214.5"/>
+        <path id="sig-diag-7" d="M 935.6 1254.5 L 1054.0 1214.5"/>
+        <path id="sig-diag-10" d="M 1289.4 1254.5 L 1405.5 1214.5"/>
+      </g>
+    <g id="header-text">
+      <text id="h-name" x="57.0" y="204.0" text-anchor="middle">点名</text>
+      <text id="h-obs" x="279.5" y="167.0" text-anchor="middle">高差/平距往返测观测值<tspan class="unit">(m)</tspan></text>
+      <text id="h-dist" x="586.2" y="167.0" text-anchor="middle">平距往返测</text>
+      <text id="h-dh" x="878.8" y="167.0" text-anchor="middle">高差对向观测</text>
+      <text id="h-corr" x="1113.2" y="200.0" text-anchor="middle">高差</text>
+      <text x="1113.2" y="225.0" text-anchor="middle">改正值</text>
+      <text x="1113.2" y="250.0" text-anchor="middle" class="unit">(mm)</text>
+      <text id="h-adj" x="1231.0" y="200.0" text-anchor="middle">改正后</text>
+      <text x="1231.0" y="225.0" text-anchor="middle">的高差</text>
+      <text x="1231.0" y="250.0" text-anchor="middle" class="unit">(m)</text>
+      <text id="h-elev" x="1347.5" y="212.5" text-anchor="middle">最终高程</text>
+      <text x="1347.5" y="237.5" text-anchor="middle" class="unit">(m)</text>
+      <text id="h-note" x="1464.8" y="225.0" text-anchor="middle">备 注</text>
+      <text class="diag" x="98.0" y="208.0" text-anchor="start">往测高差</text>
+      <text class="diag" x="271.5" y="244.0" text-anchor="end">往测平距</text>
+      <text class="diag" x="287.5" y="208.0" text-anchor="start">返测高差</text>
+      <text class="diag" x="461.0" y="244.0" text-anchor="end">返测平距</text>
+      <text x="528.0" y="212.5" text-anchor="middle">平均值</text>
+      <text x="528.0" y="237.5" text-anchor="middle" class="unit">(m)</text>
+      <text x="645.2" y="212.5" text-anchor="middle">相对误差</text>
+      <text x="645.2" y="237.5" text-anchor="middle" class="unit">(1/?)</text>
+      <text x="761.5" y="212.5" text-anchor="middle">平均值</text>
+      <text x="761.5" y="237.5" text-anchor="middle" class="unit">(m)</text>
+      <text x="877.5" y="212.5" text-anchor="middle">较差</text>
+      <text x="877.5" y="237.5" text-anchor="middle" class="unit">(mm)</text>
+      <text x="994.8" y="212.5" text-anchor="middle">较差允许值</text>
+      <text x="994.8" y="237.5" text-anchor="middle" class="unit">(mm)</text>
+    </g>
+    <g id="sigma-row">
+      <text x="246.5" y="1242.5" text-anchor="middle" style="font-size:24px">Σ</text>
+    </g>
+    <g id="eval-row">
+      <text x="34.0" y="1282.5" text-anchor="start">精度评定:</text>
+    </g>
+    </g>
+  <g id="cells" class="cells">
+      <rect id="meta-start-elev-box" x="156" y="94" width="136" height="30"/>
+      <rect id="meta-calc-box" x="356" y="94" width="384" height="30"/>
+      <rect id="meta-check-box" x="838" y="94" width="272" height="30"/>
+      <rect id="meta-group-box" x="1214" y="94" width="286" height="30"/>
+      <rect id="h-name-box" x="24" y="140" width="66" height="114"/>
+      <rect id="h-obs-box" x="90" y="140" width="379" height="42"/>
+      <rect id="h-dist-box" x="469" y="140" width="234.5" height="42"/>
+      <rect id="h-dh-box" x="703.5" y="140" width="350.5" height="42"/>
+      <rect id="h-corr-box" x="1054" y="140" width="118.5" height="114"/>
+      <rect id="h-adj-box" x="1172.5" y="140" width="116.9" height="114"/>
+      <rect id="h-elev-box" x="1289.4" y="140" width="116.1" height="114"/>
+      <rect id="h-note-box" x="1405.5" y="140" width="118.5" height="114"/>
+      <rect id="h-sub-mean1-box" x="469" y="182" width="118" height="72"/>
+      <rect id="h-sub-rel-box" x="587" y="182" width="116.5" height="72"/>
+      <rect id="h-sub-mean2-box" x="703.5" y="182" width="116" height="72"/>
+      <rect id="h-sub-diff-box" x="819.5" y="182" width="116.1" height="72"/>
+      <rect id="h-sub-allow-box" x="935.6" y="182" width="118.4" height="72"/>
+      <rect id="s1-id-box" x="26.5" y="256.5" width="61" height="51.5"/>
+      <rect id="s1-fwd-dh-box" x="100" y="258" width="88.54" height="19.73"/>
+      <rect id="s1-fwd-s-box" x="169.59" y="286.77" width="99.91" height="19.73"/>
+      <rect id="s1-ret-dh-box" x="289.5" y="258" width="88.54" height="19.73"/>
+      <rect id="s1-ret-s-box" x="359.09" y="286.77" width="99.91" height="19.73"/>
+      <rect id="s1-dist-mean-box" x="471.5" y="256.5" width="113" height="51.5"/>
+      <rect id="s1-dist-rel-box" x="589.5" y="256.5" width="111.5" height="51.5"/>
+      <rect id="s1-dh-mean-box" x="706" y="256.5" width="111" height="51.5"/>
+      <rect id="s1-dh-diff-box" x="822" y="256.5" width="111.1" height="51.5"/>
+      <rect id="s1-dh-allow-box" x="938.1" y="256.5" width="113.4" height="51.5"/>
+      <rect id="s1-dh-corr-box" x="1056.5" y="256.5" width="113.5" height="51.5"/>
+      <rect id="s1-dh-adj-box" x="1175" y="256.5" width="111.9" height="51.5"/>
+      <rect id="s1-elev-box" x="1291.9" y="256.5" width="111.1" height="51.5"/>
+      <rect id="s2-id-box" x="26.5" y="313" width="61" height="51.5"/>
+      <rect id="s2-fwd-dh-box" x="100" y="314.5" width="88.54" height="19.73"/>
+      <rect id="s2-fwd-s-box" x="169.59" y="343.27" width="99.91" height="19.73"/>
+      <rect id="s2-ret-dh-box" x="289.5" y="314.5" width="88.54" height="19.73"/>
+      <rect id="s2-ret-s-box" x="359.09" y="343.27" width="99.91" height="19.73"/>
+      <rect id="s2-dist-mean-box" x="471.5" y="313" width="113" height="51.5"/>
+      <rect id="s2-dist-rel-box" x="589.5" y="313" width="111.5" height="51.5"/>
+      <rect id="s2-dh-mean-box" x="706" y="313" width="111" height="51.5"/>
+      <rect id="s2-dh-diff-box" x="822" y="313" width="111.1" height="51.5"/>
+      <rect id="s2-dh-allow-box" x="938.1" y="313" width="113.4" height="51.5"/>
+      <rect id="s2-dh-corr-box" x="1056.5" y="313" width="113.5" height="51.5"/>
+      <rect id="s2-dh-adj-box" x="1175" y="313" width="111.9" height="51.5"/>
+      <rect id="s2-elev-box" x="1291.9" y="313" width="111.1" height="51.5"/>
+      <rect id="s3-id-box" x="26.5" y="369.5" width="61" height="51.5"/>
+      <rect id="s3-fwd-dh-box" x="100" y="371" width="88.54" height="19.73"/>
+      <rect id="s3-fwd-s-box" x="169.59" y="399.77" width="99.91" height="19.73"/>
+      <rect id="s3-ret-dh-box" x="289.5" y="371" width="88.54" height="19.73"/>
+      <rect id="s3-ret-s-box" x="359.09" y="399.77" width="99.91" height="19.73"/>
+      <rect id="s3-dist-mean-box" x="471.5" y="369.5" width="113" height="51.5"/>
+      <rect id="s3-dist-rel-box" x="589.5" y="369.5" width="111.5" height="51.5"/>
+      <rect id="s3-dh-mean-box" x="706" y="369.5" width="111" height="51.5"/>
+      <rect id="s3-dh-diff-box" x="822" y="369.5" width="111.1" height="51.5"/>
+      <rect id="s3-dh-allow-box" x="938.1" y="369.5" width="113.4" height="51.5"/>
+      <rect id="s3-dh-corr-box" x="1056.5" y="369.5" width="113.5" height="51.5"/>
+      <rect id="s3-dh-adj-box" x="1175" y="369.5" width="111.9" height="51.5"/>
+      <rect id="s3-elev-box" x="1291.9" y="369.5" width="111.1" height="51.5"/>
+      <rect id="s4-id-box" x="26.5" y="426" width="61" height="51.5"/>
+      <rect id="s4-fwd-dh-box" x="100" y="427.5" width="88.54" height="19.73"/>
+      <rect id="s4-fwd-s-box" x="169.59" y="456.27" width="99.91" height="19.73"/>
+      <rect id="s4-ret-dh-box" x="289.5" y="427.5" width="88.54" height="19.73"/>
+      <rect id="s4-ret-s-box" x="359.09" y="456.27" width="99.91" height="19.73"/>
+      <rect id="s4-dist-mean-box" x="471.5" y="426" width="113" height="51.5"/>
+      <rect id="s4-dist-rel-box" x="589.5" y="426" width="111.5" height="51.5"/>
+      <rect id="s4-dh-mean-box" x="706" y="426" width="111" height="51.5"/>
+      <rect id="s4-dh-diff-box" x="822" y="426" width="111.1" height="51.5"/>
+      <rect id="s4-dh-allow-box" x="938.1" y="426" width="113.4" height="51.5"/>
+      <rect id="s4-dh-corr-box" x="1056.5" y="426" width="113.5" height="51.5"/>
+      <rect id="s4-dh-adj-box" x="1175" y="426" width="111.9" height="51.5"/>
+      <rect id="s4-elev-box" x="1291.9" y="426" width="111.1" height="51.5"/>
+      <rect id="s5-id-box" x="26.5" y="482.5" width="61" height="51.5"/>
+      <rect id="s5-fwd-dh-box" x="100" y="484" width="88.54" height="19.73"/>
+      <rect id="s5-fwd-s-box" x="169.59" y="512.77" width="99.91" height="19.73"/>
+      <rect id="s5-ret-dh-box" x="289.5" y="484" width="88.54" height="19.73"/>
+      <rect id="s5-ret-s-box" x="359.09" y="512.77" width="99.91" height="19.73"/>
+      <rect id="s5-dist-mean-box" x="471.5" y="482.5" width="113" height="51.5"/>
+      <rect id="s5-dist-rel-box" x="589.5" y="482.5" width="111.5" height="51.5"/>
+      <rect id="s5-dh-mean-box" x="706" y="482.5" width="111" height="51.5"/>
+      <rect id="s5-dh-diff-box" x="822" y="482.5" width="111.1" height="51.5"/>
+      <rect id="s5-dh-allow-box" x="938.1" y="482.5" width="113.4" height="51.5"/>
+      <rect id="s5-dh-corr-box" x="1056.5" y="482.5" width="113.5" height="51.5"/>
+      <rect id="s5-dh-adj-box" x="1175" y="482.5" width="111.9" height="51.5"/>
+      <rect id="s5-elev-box" x="1291.9" y="482.5" width="111.1" height="51.5"/>
+      <rect id="s6-id-box" x="26.5" y="539" width="61" height="51.5"/>
+      <rect id="s6-fwd-dh-box" x="100" y="540.5" width="88.54" height="19.73"/>
+      <rect id="s6-fwd-s-box" x="169.59" y="569.27" width="99.91" height="19.73"/>
+      <rect id="s6-ret-dh-box" x="289.5" y="540.5" width="88.54" height="19.73"/>
+      <rect id="s6-ret-s-box" x="359.09" y="569.27" width="99.91" height="19.73"/>
+      <rect id="s6-dist-mean-box" x="471.5" y="539" width="113" height="51.5"/>
+      <rect id="s6-dist-rel-box" x="589.5" y="539" width="111.5" height="51.5"/>
+      <rect id="s6-dh-mean-box" x="706" y="539" width="111" height="51.5"/>
+      <rect id="s6-dh-diff-box" x="822" y="539" width="111.1" height="51.5"/>
+      <rect id="s6-dh-allow-box" x="938.1" y="539" width="113.4" height="51.5"/>
+      <rect id="s6-dh-corr-box" x="1056.5" y="539" width="113.5" height="51.5"/>
+      <rect id="s6-dh-adj-box" x="1175" y="539" width="111.9" height="51.5"/>
+      <rect id="s6-elev-box" x="1291.9" y="539" width="111.1" height="51.5"/>
+      <rect id="s7-id-box" x="26.5" y="595.5" width="61" height="51.5"/>
+      <rect id="s7-fwd-dh-box" x="100" y="597" width="88.54" height="19.73"/>
+      <rect id="s7-fwd-s-box" x="169.59" y="625.77" width="99.91" height="19.73"/>
+      <rect id="s7-ret-dh-box" x="289.5" y="597" width="88.54" height="19.73"/>
+      <rect id="s7-ret-s-box" x="359.09" y="625.77" width="99.91" height="19.73"/>
+      <rect id="s7-dist-mean-box" x="471.5" y="595.5" width="113" height="51.5"/>
+      <rect id="s7-dist-rel-box" x="589.5" y="595.5" width="111.5" height="51.5"/>
+      <rect id="s7-dh-mean-box" x="706" y="595.5" width="111" height="51.5"/>
+      <rect id="s7-dh-diff-box" x="822" y="595.5" width="111.1" height="51.5"/>
+      <rect id="s7-dh-allow-box" x="938.1" y="595.5" width="113.4" height="51.5"/>
+      <rect id="s7-dh-corr-box" x="1056.5" y="595.5" width="113.5" height="51.5"/>
+      <rect id="s7-dh-adj-box" x="1175" y="595.5" width="111.9" height="51.5"/>
+      <rect id="s7-elev-box" x="1291.9" y="595.5" width="111.1" height="51.5"/>
+      <rect id="s8-id-box" x="26.5" y="652" width="61" height="51.5"/>
+      <rect id="s8-fwd-dh-box" x="100" y="653.5" width="88.54" height="19.73"/>
+      <rect id="s8-fwd-s-box" x="169.59" y="682.27" width="99.91" height="19.73"/>
+      <rect id="s8-ret-dh-box" x="289.5" y="653.5" width="88.54" height="19.73"/>
+      <rect id="s8-ret-s-box" x="359.09" y="682.27" width="99.91" height="19.73"/>
+      <rect id="s8-dist-mean-box" x="471.5" y="652" width="113" height="51.5"/>
+      <rect id="s8-dist-rel-box" x="589.5" y="652" width="111.5" height="51.5"/>
+      <rect id="s8-dh-mean-box" x="706" y="652" width="111" height="51.5"/>
+      <rect id="s8-dh-diff-box" x="822" y="652" width="111.1" height="51.5"/>
+      <rect id="s8-dh-allow-box" x="938.1" y="652" width="113.4" height="51.5"/>
+      <rect id="s8-dh-corr-box" x="1056.5" y="652" width="113.5" height="51.5"/>
+      <rect id="s8-dh-adj-box" x="1175" y="652" width="111.9" height="51.5"/>
+      <rect id="s8-elev-box" x="1291.9" y="652" width="111.1" height="51.5"/>
+      <rect id="s9-id-box" x="26.5" y="708.5" width="61" height="51.5"/>
+      <rect id="s9-fwd-dh-box" x="100" y="710" width="88.54" height="19.73"/>
+      <rect id="s9-fwd-s-box" x="169.59" y="738.77" width="99.91" height="19.73"/>
+      <rect id="s9-ret-dh-box" x="289.5" y="710" width="88.54" height="19.73"/>
+      <rect id="s9-ret-s-box" x="359.09" y="738.77" width="99.91" height="19.73"/>
+      <rect id="s9-dist-mean-box" x="471.5" y="708.5" width="113" height="51.5"/>
+      <rect id="s9-dist-rel-box" x="589.5" y="708.5" width="111.5" height="51.5"/>
+      <rect id="s9-dh-mean-box" x="706" y="708.5" width="111" height="51.5"/>
+      <rect id="s9-dh-diff-box" x="822" y="708.5" width="111.1" height="51.5"/>
+      <rect id="s9-dh-allow-box" x="938.1" y="708.5" width="113.4" height="51.5"/>
+      <rect id="s9-dh-corr-box" x="1056.5" y="708.5" width="113.5" height="51.5"/>
+      <rect id="s9-dh-adj-box" x="1175" y="708.5" width="111.9" height="51.5"/>
+      <rect id="s9-elev-box" x="1291.9" y="708.5" width="111.1" height="51.5"/>
+      <rect id="s10-id-box" x="26.5" y="765" width="61" height="51.5"/>
+      <rect id="s10-fwd-dh-box" x="100" y="766.5" width="88.54" height="19.73"/>
+      <rect id="s10-fwd-s-box" x="169.59" y="795.27" width="99.91" height="19.73"/>
+      <rect id="s10-ret-dh-box" x="289.5" y="766.5" width="88.54" height="19.73"/>
+      <rect id="s10-ret-s-box" x="359.09" y="795.27" width="99.91" height="19.73"/>
+      <rect id="s10-dist-mean-box" x="471.5" y="765" width="113" height="51.5"/>
+      <rect id="s10-dist-rel-box" x="589.5" y="765" width="111.5" height="51.5"/>
+      <rect id="s10-dh-mean-box" x="706" y="765" width="111" height="51.5"/>
+      <rect id="s10-dh-diff-box" x="822" y="765" width="111.1" height="51.5"/>
+      <rect id="s10-dh-allow-box" x="938.1" y="765" width="113.4" height="51.5"/>
+      <rect id="s10-dh-corr-box" x="1056.5" y="765" width="113.5" height="51.5"/>
+      <rect id="s10-dh-adj-box" x="1175" y="765" width="111.9" height="51.5"/>
+      <rect id="s10-elev-box" x="1291.9" y="765" width="111.1" height="51.5"/>
+      <rect id="s11-id-box" x="26.5" y="821.5" width="61" height="51.5"/>
+      <rect id="s11-fwd-dh-box" x="100" y="823" width="88.54" height="19.73"/>
+      <rect id="s11-fwd-s-box" x="169.59" y="851.77" width="99.91" height="19.73"/>
+      <rect id="s11-ret-dh-box" x="289.5" y="823" width="88.54" height="19.73"/>
+      <rect id="s11-ret-s-box" x="359.09" y="851.77" width="99.91" height="19.73"/>
+      <rect id="s11-dist-mean-box" x="471.5" y="821.5" width="113" height="51.5"/>
+      <rect id="s11-dist-rel-box" x="589.5" y="821.5" width="111.5" height="51.5"/>
+      <rect id="s11-dh-mean-box" x="706" y="821.5" width="111" height="51.5"/>
+      <rect id="s11-dh-diff-box" x="822" y="821.5" width="111.1" height="51.5"/>
+      <rect id="s11-dh-allow-box" x="938.1" y="821.5" width="113.4" height="51.5"/>
+      <rect id="s11-dh-corr-box" x="1056.5" y="821.5" width="113.5" height="51.5"/>
+      <rect id="s11-dh-adj-box" x="1175" y="821.5" width="111.9" height="51.5"/>
+      <rect id="s11-elev-box" x="1291.9" y="821.5" width="111.1" height="51.5"/>
+      <rect id="s12-id-box" x="26.5" y="878" width="61" height="51.5"/>
+      <rect id="s12-fwd-dh-box" x="100" y="879.5" width="88.54" height="19.73"/>
+      <rect id="s12-fwd-s-box" x="169.59" y="908.27" width="99.91" height="19.73"/>
+      <rect id="s12-ret-dh-box" x="289.5" y="879.5" width="88.54" height="19.73"/>
+      <rect id="s12-ret-s-box" x="359.09" y="908.27" width="99.91" height="19.73"/>
+      <rect id="s12-dist-mean-box" x="471.5" y="878" width="113" height="51.5"/>
+      <rect id="s12-dist-rel-box" x="589.5" y="878" width="111.5" height="51.5"/>
+      <rect id="s12-dh-mean-box" x="706" y="878" width="111" height="51.5"/>
+      <rect id="s12-dh-diff-box" x="822" y="878" width="111.1" height="51.5"/>
+      <rect id="s12-dh-allow-box" x="938.1" y="878" width="113.4" height="51.5"/>
+      <rect id="s12-dh-corr-box" x="1056.5" y="878" width="113.5" height="51.5"/>
+      <rect id="s12-dh-adj-box" x="1175" y="878" width="111.9" height="51.5"/>
+      <rect id="s12-elev-box" x="1291.9" y="878" width="111.1" height="51.5"/>
+      <rect id="s13-id-box" x="26.5" y="934.5" width="61" height="51.5"/>
+      <rect id="s13-fwd-dh-box" x="100" y="936" width="88.54" height="19.73"/>
+      <rect id="s13-fwd-s-box" x="169.59" y="964.77" width="99.91" height="19.73"/>
+      <rect id="s13-ret-dh-box" x="289.5" y="936" width="88.54" height="19.73"/>
+      <rect id="s13-ret-s-box" x="359.09" y="964.77" width="99.91" height="19.73"/>
+      <rect id="s13-dist-mean-box" x="471.5" y="934.5" width="113" height="51.5"/>
+      <rect id="s13-dist-rel-box" x="589.5" y="934.5" width="111.5" height="51.5"/>
+      <rect id="s13-dh-mean-box" x="706" y="934.5" width="111" height="51.5"/>
+      <rect id="s13-dh-diff-box" x="822" y="934.5" width="111.1" height="51.5"/>
+      <rect id="s13-dh-allow-box" x="938.1" y="934.5" width="113.4" height="51.5"/>
+      <rect id="s13-dh-corr-box" x="1056.5" y="934.5" width="113.5" height="51.5"/>
+      <rect id="s13-dh-adj-box" x="1175" y="934.5" width="111.9" height="51.5"/>
+      <rect id="s13-elev-box" x="1291.9" y="934.5" width="111.1" height="51.5"/>
+      <rect id="s14-id-box" x="26.5" y="991" width="61" height="51.5"/>
+      <rect id="s14-fwd-dh-box" x="100" y="992.5" width="88.54" height="19.73"/>
+      <rect id="s14-fwd-s-box" x="169.59" y="1021.27" width="99.91" height="19.73"/>
+      <rect id="s14-ret-dh-box" x="289.5" y="992.5" width="88.54" height="19.73"/>
+      <rect id="s14-ret-s-box" x="359.09" y="1021.27" width="99.91" height="19.73"/>
+      <rect id="s14-dist-mean-box" x="471.5" y="991" width="113" height="51.5"/>
+      <rect id="s14-dist-rel-box" x="589.5" y="991" width="111.5" height="51.5"/>
+      <rect id="s14-dh-mean-box" x="706" y="991" width="111" height="51.5"/>
+      <rect id="s14-dh-diff-box" x="822" y="991" width="111.1" height="51.5"/>
+      <rect id="s14-dh-allow-box" x="938.1" y="991" width="113.4" height="51.5"/>
+      <rect id="s14-dh-corr-box" x="1056.5" y="991" width="113.5" height="51.5"/>
+      <rect id="s14-dh-adj-box" x="1175" y="991" width="111.9" height="51.5"/>
+      <rect id="s14-elev-box" x="1291.9" y="991" width="111.1" height="51.5"/>
+      <rect id="s15-id-box" x="26.5" y="1047.5" width="61" height="51.5"/>
+      <rect id="s15-fwd-dh-box" x="100" y="1049" width="88.54" height="19.73"/>
+      <rect id="s15-fwd-s-box" x="169.59" y="1077.77" width="99.91" height="19.73"/>
+      <rect id="s15-ret-dh-box" x="289.5" y="1049" width="88.54" height="19.73"/>
+      <rect id="s15-ret-s-box" x="359.09" y="1077.77" width="99.91" height="19.73"/>
+      <rect id="s15-dist-mean-box" x="471.5" y="1047.5" width="113" height="51.5"/>
+      <rect id="s15-dist-rel-box" x="589.5" y="1047.5" width="111.5" height="51.5"/>
+      <rect id="s15-dh-mean-box" x="706" y="1047.5" width="111" height="51.5"/>
+      <rect id="s15-dh-diff-box" x="822" y="1047.5" width="111.1" height="51.5"/>
+      <rect id="s15-dh-allow-box" x="938.1" y="1047.5" width="113.4" height="51.5"/>
+      <rect id="s15-dh-corr-box" x="1056.5" y="1047.5" width="113.5" height="51.5"/>
+      <rect id="s15-dh-adj-box" x="1175" y="1047.5" width="111.9" height="51.5"/>
+      <rect id="s15-elev-box" x="1291.9" y="1047.5" width="111.1" height="51.5"/>
+      <rect id="s16-id-box" x="26.5" y="1104" width="61" height="51.5"/>
+      <rect id="s16-fwd-dh-box" x="100" y="1105.5" width="88.54" height="19.73"/>
+      <rect id="s16-fwd-s-box" x="169.59" y="1134.27" width="99.91" height="19.73"/>
+      <rect id="s16-ret-dh-box" x="289.5" y="1105.5" width="88.54" height="19.73"/>
+      <rect id="s16-ret-s-box" x="359.09" y="1134.27" width="99.91" height="19.73"/>
+      <rect id="s16-dist-mean-box" x="471.5" y="1104" width="113" height="51.5"/>
+      <rect id="s16-dist-rel-box" x="589.5" y="1104" width="111.5" height="51.5"/>
+      <rect id="s16-dh-mean-box" x="706" y="1104" width="111" height="51.5"/>
+      <rect id="s16-dh-diff-box" x="822" y="1104" width="111.1" height="51.5"/>
+      <rect id="s16-dh-allow-box" x="938.1" y="1104" width="113.4" height="51.5"/>
+      <rect id="s16-dh-corr-box" x="1056.5" y="1104" width="113.5" height="51.5"/>
+      <rect id="s16-dh-adj-box" x="1175" y="1104" width="111.9" height="51.5"/>
+      <rect id="s16-elev-box" x="1291.9" y="1104" width="111.1" height="51.5"/>
+      <rect id="s17-id-box" x="26.5" y="1160.5" width="61" height="51.5"/>
+      <rect id="s17-fwd-dh-box" x="100" y="1162" width="88.54" height="19.73"/>
+      <rect id="s17-fwd-s-box" x="169.59" y="1190.77" width="99.91" height="19.73"/>
+      <rect id="s17-ret-dh-box" x="289.5" y="1162" width="88.54" height="19.73"/>
+      <rect id="s17-ret-s-box" x="359.09" y="1190.77" width="99.91" height="19.73"/>
+      <rect id="s17-dist-mean-box" x="471.5" y="1160.5" width="113" height="51.5"/>
+      <rect id="s17-dist-rel-box" x="589.5" y="1160.5" width="111.5" height="51.5"/>
+      <rect id="s17-dh-mean-box" x="706" y="1160.5" width="111" height="51.5"/>
+      <rect id="s17-dh-diff-box" x="822" y="1160.5" width="111.1" height="51.5"/>
+      <rect id="s17-dh-allow-box" x="938.1" y="1160.5" width="113.4" height="51.5"/>
+      <rect id="s17-dh-corr-box" x="1056.5" y="1160.5" width="113.5" height="51.5"/>
+      <rect id="s17-dh-adj-box" x="1175" y="1160.5" width="111.9" height="51.5"/>
+      <rect id="s17-elev-box" x="1291.9" y="1160.5" width="111.1" height="51.5"/>
+      <rect id="sigma-label-box" x="26.5" y="1217" width="440" height="35"/>
+      <rect id="sigma-dist-mean-box" x="471.5" y="1217" width="113" height="35"/>
+      <rect id="sigma-dist-void-box" x="589.5" y="1217" width="111.5" height="35"/>
+      <rect id="sigma-dh-mean-box" x="706" y="1217" width="111" height="35"/>
+      <rect id="sigma-dh-diff-box" x="822" y="1217" width="111.1" height="35"/>
+      <rect id="sigma-allow-box" x="938.1" y="1217" width="113.4" height="35"/>
+      <rect id="sigma-corr-box" x="1056.5" y="1217" width="113.5" height="35"/>
+      <rect id="sigma-adj-box" x="1175" y="1217" width="111.9" height="35"/>
+      <rect id="sigma-elev-box" x="1291.9" y="1217" width="111.1" height="35"/>
+      <rect id="remark-box" x="1408" y="142.5" width="113.5" height="1171.5"/>
+      <rect id="eval-box" x="26.5" y="1257" width="1376.5" height="57"/>
+  </g>
+  </g>
+</svg>
