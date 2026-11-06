@@ -21,5 +21,5 @@
 
 ## 其他
 
-- 应用图标由项目作者提供。
+- 应用图标由项目作者使用 Nuclear_Creeper（GitHub `NCreeper233`）的终末地风格 LOGO 生成器 `endfield-logo-maker`（MIT License）制作，中文字体为 HarmonyOS Sans SC。
 - 本仓库不包含任何用户的项目库、对话库、备份、图片附件或 API Key。这些数据只保存在本机应用数据目录或 Windows 凭据管理器，不随仓库分发。
