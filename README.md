@@ -90,7 +90,7 @@ Excel 模板胜在自由、通用；本工具把七表关系和课程口径先�
 
 ## 快速开始
 
-Windows 安装包：[下载](https://github.com/JNGKZbird/survey-jujin-taibai/blob/main/release/survey-jujin_0.1.0_x64-setup.exe)。也可以从源码运行；前置：Node.js 与 pnpm（或 npm）、Rust，以及 Tauri 2 的 Windows 构建依赖（WebView2、MSVC 构建工具）。
+便携版（需 WebView2）：[下载](https://github.com/JNGKZbird/survey-jujin-taibai/releases/download/v0.1.0/survey-jujin_0.1.0_x64-portable.exe)。安装包需从源码构建（pnpm build）；前置：Node.js 与 pnpm（或 npm）、Rust，以及 Tauri 2 的 Windows 构建依赖（WebView2、MSVC 构建工具）。
 
 ```bash
 pnpm install
@@ -165,7 +165,7 @@ AI 数据流单独说明：支持 OpenAI 兼容端点，DeepSeek 预置；对话
 
 ## 已知限制
 
-- 仓库附带 Windows 安装包，也可从源码运行；当前以 Windows 桌面为主，其他平台未验证。
+- Release 提供 Windows 便携版，安装包需从源码构建；当前以 Windows 桌面为主，其他平台未验证。
 - 课程限差是默认值，不同课程的口径请在「选项」里改，不声称唯一口径。
 - AI 表格工具只写表一与表二，不能删页，不能写表三、表四、表五、表六、表G、设置或文件系统。
 - 联网搜索只支持 DeepSeek 官方端点；不抓取网页正文；每轮最多 2 次、每条回答最多 6 次。
